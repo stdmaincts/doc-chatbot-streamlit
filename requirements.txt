@@ -4,7 +4,7 @@ langchain-community
 langchain-openai
 langchain-text-splitters
 pypdf
-python-docx
 faiss-cpu
+python-docx
 sentence-transformers
 tiktoken
