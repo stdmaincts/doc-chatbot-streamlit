@@ -1,8 +1,10 @@
 streamlit
 langchain
-openai
-faiss-cpu
+langchain-community
+langchain-openai
+langchain-text-splitters
 pypdf
 python-docx
 sentence-transformers
+faiss-cpu
 tiktoken
