@@ -45,4 +45,3 @@ if uploaded_file:
 
         st.subheader("Answer")
         st.write(answer)
->>>>>>> f9d620fc609b225a53290a338ebe0fef4eb6cca3
