@@ -1,4 +1,3 @@
-
 import streamlit as st
 import os
 
@@ -7,7 +6,6 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import FAISS
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain.chains import RetrievalQA
-
 
 
 st.set_page_config(page_title="Chat with Documents")
